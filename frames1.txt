@@ -2,8 +2,7 @@
 	<head>
 		<title>images</title>
 	</head>
-	<frameset cols="30%,70%" border="8" marginwidth="20"marginheight="15">
-	<frame  src="top.html" />
+	
 	
 	<frameset rows="40%,60%" border="10" frameborder="1" marginwidth="20" marginheight="15" noresize="noresize">
 	<frame  src="top.html" />
